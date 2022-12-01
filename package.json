@@ -1,0 +1,24 @@
+{
+  "name": "test-shopify-lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tokarchukm/test-shopify-lighthouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tokarchukm/test-shopify-lighthouse/issues"
+  },
+  "homepage": "https://github.com/Tokarchukm/test-shopify-lighthouse#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.28.1",
+    "lighthouse": "^9.6.8",
+    "playwright": "^1.28.1",
+    "playwright-lighthouse": "^2.2.2"
+  }
+}
